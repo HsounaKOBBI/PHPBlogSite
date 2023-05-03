@@ -20,7 +20,7 @@
  2. approve or decline users
  3. approve or decline posts
  4. approve or decline comments
-
+![Homepage preview](https://github.com/HsounaKOBBI/PHPBlogSite/blob/e216c18e8bd045e2db2b5e196f175ae19378b13b/hk/imagesReadME/341135973_6447374715306908_8549296369851566558_n.png)
 
 #### sql file is attached inside the sql directory.
 
