@@ -13,7 +13,8 @@
  1. Register
  2. Log in
  3. Post on blog with image
- 4. Add comments on posts and likes
+ 4. Search Post with TAGS and Titles
+ 5. Add comments on posts and likes
   ![Homepage preview](https://github.com/HsounaKOBBI/PHPBlogSite/blob/f1d767585ca516d8cd0c34d3a230ce1dbd301ac8/hk/imagesReadME/343980402_109837705437576_1200340403044371030_n.png)
  6. contact the admin or the author
  ![Homepage preview](https://github.com/HsounaKOBBI/PHPBlogSite/blob/f1d767585ca516d8cd0c34d3a230ce1dbd301ac8/hk/imagesReadME/344025326_1738145246640967_2642270553068369373_n.png)
@@ -34,7 +35,7 @@ password: 123
 
 ### Preview: Home Page
 
-![Homepage preview](https://github.com/ashraf-kabir/personal-blog/blob/master/personal-blog-home-preview.png)
+
 
 
 ### Raise a star to support me
